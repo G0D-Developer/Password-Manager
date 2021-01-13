@@ -16,10 +16,10 @@ using namespace std;
 
 void setupWizard();
 
-#define PURPLE cout << "\033[0;35m" << endl;
-#define WHITE cout << "\033[0;37m" << endl;
-#define RED cout << "\033[0;31m" << endl;
-#define GREEN cout << "\033[0;32m" << endl;
+#define PURPLE cout << "\033[0;35m";
+#define WHITE cout << "\033[0;37m";
+#define RED cout << "\033[0;31m";
+#define GREEN cout << "\033[0;32m";
 
   int _main();
   void setupWiizard();
@@ -120,12 +120,14 @@ int _main() {
 
   int choice;
 
-  WHITE
+  PURPLE
   cout << "1. Create New Passwords \n";
   sleep(1);
   cout << "2. Access Passwords \n";
   sleep(1);
+  RED
   cout << "3. Delete Passwords \n";
+  WHITE
   cin >> choice;
 
   if (choice == 1) {

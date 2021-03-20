@@ -3,8 +3,6 @@
 Application    : Password Manager
 Author         : X-Developer-Studios 
 Version        : 1.0
-Copyright      : © 2021 C-Developer-Studios 
-Description    : Retrieve Passwords 
 ***********************************************************************/
 
 #include <iostream>

@@ -1,4 +1,3 @@
-
 /***********************************************************************
 Application    : Password Manager
 Author         : X-Developer-Studios 

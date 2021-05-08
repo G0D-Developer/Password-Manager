@@ -11,15 +11,13 @@ Version        : 1.0
 
 using namespace std;
 
-void setupWizard();
-
 #define PURPLE cout << "\033[0;35m";
 #define WHITE cout << "\033[0;37m";
 #define RED cout << "\033[0;31m";
 #define GREEN cout << "\033[0;32m";
 
   int _main();
-  void setupWiizard();
+  void setupWizard();
   void accessKeys();
   void deleteKeys();
   void clearScreen();

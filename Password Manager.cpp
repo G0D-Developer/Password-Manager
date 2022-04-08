@@ -1,6 +1,6 @@
 /***********************************************************************
 Application    : Password Manager
-Author         : X-Developer-Studios 
+Author         : G0D-Developer 
 Version        : 1.0
 ***********************************************************************/
 
